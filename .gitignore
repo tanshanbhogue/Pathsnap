@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Data (not stored in git; supplied separately)
+data/
+backup_v1/
+
+# Run-time output
+logs/
+artifacts/
+reports/*.log
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
